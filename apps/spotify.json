@@ -1,0 +1,17 @@
+{ 
+    "uuid": "f5b2c3c9-0e4e-4c5c-bd8c-634efd24a24c",
+    "name": "Spotify",
+    "author": "Spotify",
+    "icon": "https://cdn.made-by-air.com/sufa6/MIDoQatI00.png/raw",
+    "source": "flatpak",
+    "download": "com.spotify.Client",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/YuGUfOXu18.jpeg/raw",
+    	"https://cdn.made-by-air.com/sufa6/DEfadeXU47.jpeg/raw",
+    	"https://cdn.made-by-air.com/sufa6/WujaZUbu93.jpeg/raw",
+    	"https://cdn.made-by-air.com/sufa6/CErunaWO25.jpeg/raw",
+    	"https://cdn.made-by-air.com/sufa6/deCUhIDE50.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/vuWUcUQu67.jpeg/raw",
+    	"https://cdn.made-by-air.com/sufa6/GoVepaDe30.jpeg/raw"
+    ]
+}

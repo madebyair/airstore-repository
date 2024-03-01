@@ -1,0 +1,15 @@
+{ 
+    "uuid": "2ab3fcdc-1e4e-4a5e-88d9-664653b01606",
+    "name": "Discord",
+    "author": "Discord",
+    "icon": "https://cdn.made-by-air.com/sufa6/tiqAyAKE26.png/raw",
+    "source": "archive",
+    "download": "https://discord.com/api/download?platform=linux&format=tar.gz",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/biwiKEnO73.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/vIDECEHo76.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/bETarAHo39.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/miXOHerE44.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/BAGAtEla18.png/raw"
+    ]
+}

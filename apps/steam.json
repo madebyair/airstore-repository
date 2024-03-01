@@ -1,0 +1,13 @@
+{ 
+    "uuid": "1fa6537c-85d0-4406-a780-083b6969cd59",
+    "name": "Steam",
+    "author": "Steam",
+    "icon": "https://cdn.made-by-air.com/sufa6/JefeQoCa49.png/raw",
+    "source": "deb",
+    "download": "https://cdn.akamai.steamstatic.com/client/installer/steam.deb",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/WUMOpAXU48.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/GIYorUba86.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/ZOdugoNo32.png/raw"
+    ]
+}
