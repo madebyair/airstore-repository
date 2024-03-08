@@ -1,0 +1,14 @@
+{ 
+    "uuid": "c2d4a750-912f-425b-a02f-f8ef7787a57a",
+    "name": "GIMP",
+    "author": "The GIMP Team",
+    "icon": "https://cdn.made-by-air.com/sufa6/CeCibOSi34.webp/raw",
+    "source": "snap",
+    "download": "gimp",
+    "exec": "",
+    "class": "gimp",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/cEyEWuYI45.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/KIWALuyu81.png/raw"
+    ]
+}
