@@ -5,6 +5,8 @@
     "icon": "https://cdn.made-by-air.com/sufa6/JefeQoCa49.png/raw",
     "source": "deb",
     "download": "https://cdn.akamai.steamstatic.com/client/installer/steam.deb",
+    "exec": "/usr/bin/steam",
+    "class": "steam",
     "screenshots": [
     	"https://cdn.made-by-air.com/sufa6/WUMOpAXU48.png/raw",
     	"https://cdn.made-by-air.com/sufa6/GIYorUba86.png/raw",
