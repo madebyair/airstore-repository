@@ -1,12 +1,12 @@
 { 
     "uuid": "a2ffc2f7-da7a-4b43-b30c-27f73b242247",
-    "name": "Inkspace",
-    "author": "Inkspace",
+    "name": "Inkscape",
+    "author": "Inkscape",
     "icon": "https://cdn.made-by-air.com/sufa6/vivivISE26.webp/raw",
     "source": "snap",
-    "download": "inkspace",
+    "download": "inkscape",
     "exec": "",
-    "class": "inkspace",
+    "class": "inkscape",
     "screenshots": [
     	"YTVID https://www.youtube.com/embed/1U4hVbvRr_g?si=jdg9VHpY4C1liwLK"
     ]
