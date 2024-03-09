@@ -3,10 +3,10 @@
     "name": "Discord",
     "author": "Discord",
     "icon": "https://cdn.made-by-air.com/sufa6/tiqAyAKE26.png/raw",
-    "source": "archive",
-    "download": "https://discord.com/api/download?platform=linux&format=tar.gz",
+    "source": "deb",
+    "download": "https://discord.com/api/download?platform=linux&format=deb",
     "class": "discord",
-    "exec": "/Discord",
+    "exec": "/usr/bin/discord",
     "screenshots": [
     	"https://cdn.made-by-air.com/sufa6/biwiKEnO73.png/raw",
     	"https://cdn.made-by-air.com/sufa6/vIDECEHo76.png/raw",
