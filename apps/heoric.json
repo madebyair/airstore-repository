@@ -1,0 +1,14 @@
+{ 
+    "uuid": "75e77308-833a-4a18-9314-89f7eb49dc0d",
+    "name": "Heroic Games Launcher",
+    "author": "Heroic",
+    "icon": "https://cdn.made-by-air.com/sufa6/foJigOFa84.webp/raw",
+    "source": "snap",
+    "download": "heroic",
+    "class": "heroic",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/ZAXUYegA18.webp/raw",
+    	"https://cdn.made-by-air.com/sufa6/HAQEkoNi08.webp/raw"
+    ]
+}
