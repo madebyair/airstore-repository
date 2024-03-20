@@ -1,0 +1,13 @@
+{ 
+    "uuid": "d179574f-6004-4aa3-bcbe-20394299346b",
+    "name": "Caprine",
+    "author": "Sindre Sorhus",
+    "icon": "https://cdn.made-by-air.com/sufa6/cEZUbubo57.webp/raw",
+    "source": "snap",
+    "download": "caprine",
+    "class": "caprine",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/TotOJerA56.webp/raw"
+    ]
+}
