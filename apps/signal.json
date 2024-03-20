@@ -1,0 +1,13 @@
+{ 
+    "uuid": "161f773f-d0a0-48c9-b15f-cdb01d7eac76",
+    "name": "Signal",
+    "author": "Signal",
+    "icon": "https://cdn.made-by-air.com/sufa6/taLERuwe65.webp/raw",
+    "source": "snap",
+    "download": "signal-desktop",
+    "class": "signal",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/NEkuTiSO49.webp/raw"
+    ]
+}
