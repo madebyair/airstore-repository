@@ -1,0 +1,14 @@
+{ 
+    "uuid": "0acbf143-ac69-4837-875e-f604682cb267",
+    "name": "Godot",
+    "author": "Godot",
+    "icon": "https://cdn.made-by-air.com/sufa6/HIHeDUSU58.webp/raw",
+    "source": "snap",
+    "download": "godot-4",
+    "class": "godot",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/gINOLuba83.webp/raw",
+    	"https://cdn.made-by-air.com/sufa6/HIHeDUSU58.webp/raw"
+    ]
+}
