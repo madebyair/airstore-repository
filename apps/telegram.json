@@ -1,0 +1,13 @@
+{ 
+    "uuid": "49f0b2cd-02ab-40ab-a678-0c1ed68e6590",
+    "name": "Telegram Desktop",
+    "author": "Telegram",
+    "icon": "https://cdn.made-by-air.com/sufa6/SeZUqAra84.webp/raw",
+    "source": "snap",
+    "download": "telegram-desktop",
+    "class": "telegram",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/FoVOtEcE40.webp/raw"
+    ]
+}
