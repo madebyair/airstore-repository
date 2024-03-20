@@ -1,0 +1,13 @@
+{ 
+    "uuid": "c131b1d1-f42f-433f-9468-8adf70c27947",
+    "name": "Revolt Chat",
+    "author": "insertish",
+    "icon": "https://cdn.made-by-air.com/sufa6/koHoDIJe77.png/raw",
+    "source": "appimage",
+    "download": "https://github.com/revoltchat/desktop/releases/download/v1.0.6/Revolt-1.0.6.AppImage",
+    "class": "revolt",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/SoBoSUpo97.png/raw"
+    ]
+}
