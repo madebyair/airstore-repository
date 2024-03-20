@@ -1,0 +1,14 @@
+{ 
+    "uuid": "6148398c-9707-4da5-bf93-a009b0feeaf3",
+    "name": "Blender",
+    "author": "Blender Foundation",
+    "icon": "https://cdn.made-by-air.com/sufa6/GUsirOJI78.webp/raw",
+    "source": "snap",
+    "download": "blender",
+    "class": "blender",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/mObARAnA08.webp/raw",
+    	"https://cdn.made-by-air.com/sufa6/GOkEbelE57.webp/raw"
+    ]
+}
