@@ -1,0 +1,14 @@
+{ 
+    "uuid": "cb8d471e-8630-461f-b7e5-bc10ad672945",
+    "name": "Retroarch",
+    "author": "Retroarch",
+    "icon": "https://cdn.made-by-air.com/sufa6/wUdIHohI13.webp/raw",
+    "source": "snap",
+    "download": "retroarch",
+    "class": "retroarch",
+    "exec": "",
+    "screenshots": [
+    	"https://cdn.made-by-air.com/sufa6/WatuqAfA35.png/raw",
+    	"https://cdn.made-by-air.com/sufa6/NEjAjabE31.png/raw"
+    ]
+}
