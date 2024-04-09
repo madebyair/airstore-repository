@@ -3,8 +3,8 @@
     "name": "Spotify",
     "author": "Spotify",
     "icon": "https://cdn.made-by-air.com/sufa6/MIDoQatI00.png/raw",
-    "source": "snap",
-    "download": "spotify",
+    "source": "flatpak",
+    "download": "com.spotify.Client",
     "exec": "",
     "class": "spotify",
     "screenshots": [
