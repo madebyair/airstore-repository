@@ -3,8 +3,8 @@
     "name": "Heroic Games Launcher",
     "author": "Heroic",
     "icon": "https://cdn.made-by-air.com/sufa6/foJigOFa84.webp/raw",
-    "source": "snap",
-    "download": "heroic",
+    "source": "flatpak",
+    "download": "com.heroicgameslauncher.hgl",
     "class": "heroic",
     "exec": "",
     "screenshots": [
