@@ -3,8 +3,8 @@
     "name": "GIMP",
     "author": "The GIMP Team",
     "icon": "https://cdn.made-by-air.com/sufa6/CeCibOSi34.webp/raw",
-    "source": "snap",
-    "download": "gimp",
+    "source": "flatpak",
+    "download": "org.gimp.GIMP",
     "exec": "",
     "class": "gimp",
     "screenshots": [
