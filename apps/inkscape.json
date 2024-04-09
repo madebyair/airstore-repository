@@ -3,8 +3,8 @@
     "name": "Inkscape",
     "author": "Inkscape",
     "icon": "https://cdn.made-by-air.com/sufa6/vivivISE26.webp/raw",
-    "source": "snap",
-    "download": "inkscape",
+    "source": "flatpak",
+    "download": "org.inkscape.Inkscape",
     "exec": "",
     "class": "inkscape",
     "screenshots": [
