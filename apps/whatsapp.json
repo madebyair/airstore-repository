@@ -3,8 +3,8 @@
     "name": "Whatsapp",
     "author": "Meta",
     "icon": "https://cdn.made-by-air.com/sufa6/mOjUkeho46.webp/raw",
-    "source": "snap",
-    "download": "whatsapp-linux-app",
+    "source": "flatpak",
+    "download": "io.github.mimbrero.WhatsAppDesktop",
     "class": "whatsapp",
     "exec": "",
     "screenshots": [
