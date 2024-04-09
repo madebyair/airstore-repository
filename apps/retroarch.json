@@ -3,8 +3,8 @@
     "name": "Retroarch",
     "author": "Retroarch",
     "icon": "https://cdn.made-by-air.com/sufa6/wUdIHohI13.webp/raw",
-    "source": "snap",
-    "download": "retroarch",
+    "source": "flatpak",
+    "download": "org.liberto.RetroArch",
     "class": "retroarch",
     "exec": "",
     "screenshots": [
