@@ -3,8 +3,8 @@
     "name": "Blender",
     "author": "Blender Foundation",
     "icon": "https://cdn.made-by-air.com/sufa6/GUsirOJI78.webp/raw",
-    "source": "snap",
-    "download": "blender",
+    "source": "flatpak",
+    "download": "org.blender.Blender",
     "class": "blender",
     "exec": "",
     "screenshots": [
