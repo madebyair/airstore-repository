@@ -3,8 +3,8 @@
     "name": "Caprine",
     "author": "Sindre Sorhus",
     "icon": "https://cdn.made-by-air.com/sufa6/cEZUbubo57.webp/raw",
-    "source": "snap",
-    "download": "caprine",
+    "source": "flatpak",
+    "download": "com.sindresorhus.Caprine",
     "class": "caprine",
     "exec": "",
     "screenshots": [
