@@ -3,8 +3,8 @@
     "name": "Signal",
     "author": "Signal",
     "icon": "https://cdn.made-by-air.com/sufa6/taLERuwe65.webp/raw",
-    "source": "snap",
-    "download": "signal-desktop",
+    "source": "flatpak",
+    "download": "org.signal.Signal",
     "class": "signal",
     "exec": "",
     "screenshots": [
