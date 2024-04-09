@@ -3,8 +3,8 @@
     "name": "Godot",
     "author": "Godot",
     "icon": "https://cdn.made-by-air.com/sufa6/HIHeDUSU58.webp/raw",
-    "source": "snap",
-    "download": "godot-4",
+    "source": "flatpak",
+    "download": "org.godotengine.Godot",
     "class": "godot",
     "exec": "",
     "screenshots": [
