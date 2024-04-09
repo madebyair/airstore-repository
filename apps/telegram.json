@@ -3,8 +3,8 @@
     "name": "Telegram Desktop",
     "author": "Telegram",
     "icon": "https://cdn.made-by-air.com/sufa6/SeZUqAra84.webp/raw",
-    "source": "snap",
-    "download": "telegram-desktop",
+    "source": "flatpak",
+    "download": "org.telegram.desktop",
     "class": "telegram",
     "exec": "",
     "screenshots": [
