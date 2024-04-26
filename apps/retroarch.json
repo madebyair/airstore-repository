@@ -4,7 +4,7 @@
     "author": "Retroarch",
     "icon": "https://cdn.made-by-air.com/sufa6/wUdIHohI13.webp/raw",
     "source": "flatpak",
-    "download": "org.liberto.RetroArch",
+    "download": "org.libretro.RetroArch",
     "class": "retroarch",
     "exec": "",
     "screenshots": [
